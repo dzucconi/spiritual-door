@@ -1,4 +1,4 @@
-ruby '2.3.0'
+ruby '3.3.1'
 source 'https://rubygems.org/'
 
 gem 'grape', '~> 0.19.0'
